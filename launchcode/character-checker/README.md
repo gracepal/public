@@ -29,3 +29,6 @@ Small program to ask user for a string input and an index, then return the chara
 - `node main.js`
 
 ### Example Program Output Reference
+
+<img width="464" height="258" alt="charcter-checker-screenshot" src="https://github.com/user-attachments/assets/0d463512-601d-43c8-ae79-669db825e54b" />
+
